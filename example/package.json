@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "dependencies": {
+    "tslint": "5.15.0",
+    "typescript": "3.4.3",
+    "typescript-tslint-plugin": "0.3.1",
+    "@nokogiri/tslint-config": "../"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tslint -c tslint.json index.ts"
+  }
+}
