@@ -1,7 +1,7 @@
 {
   "name": "@nokogiri/tslint-config",
   "description": "A TSLint config for projects",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "yarushin",
   "bugs": {
     "url": "https://github.com/ayarushin/tslint-config/issues"
