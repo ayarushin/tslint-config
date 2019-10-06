@@ -1,3 +1,6 @@
+# Deprecated
+Use this [package](https://github.com/ayarushin/tslint) instead.
+
 # TSLint Config
 
 [![NPM version](https://img.shields.io/npm/v/@nokogiri/tslint-config.svg?style=flat)](https://www.npmjs.com/package/@nokogiri/tslint-config)
